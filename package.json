@@ -1,7 +1,7 @@
 {
   "name": "app_name",
   "version": "0.1.0",
-  "homepage": "https://vinair2.github.io/financials-mobile",
+  "homepage": "https://vinair2.github.io/fnm",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
