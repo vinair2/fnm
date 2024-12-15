@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/financials-mobile/static/css/main.e6c13ad2.css",
+    "main.js": "/financials-mobile/static/js/main.3cb97b24.js",
+    "static/js/488.eed874d9.chunk.js": "/financials-mobile/static/js/488.eed874d9.chunk.js",
+    "index.html": "/financials-mobile/index.html",
+    "main.e6c13ad2.css.map": "/financials-mobile/static/css/main.e6c13ad2.css.map",
+    "main.3cb97b24.js.map": "/financials-mobile/static/js/main.3cb97b24.js.map",
+    "488.eed874d9.chunk.js.map": "/financials-mobile/static/js/488.eed874d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3cb97b24.js"
+  ]
+}
