@@ -16,21 +16,21 @@ function App() {
       <Box 
         position="static" 
         sx={{
-          height: '200px',
+          height: '40px',
           backgroundColor: '#ffffff', // White background
-          borderBottom: '4px solid #000000', // Black border
+          borderBottom: '2px solid #000000', // Black border
           display: 'flex',
           justifyContent: 'left',
           alignItems: 'center',
         }}
       >
         <Typography 
-          variant="h2" 
+          variant="h5" 
           color="black" 
           sx={{
             fontFamily: 'Roboto, sans-serif', 
             fontWeight: 'bold',
-            textIndent: '20px'
+            textIndent: '10px'
           }}
         >
           Financials
@@ -47,12 +47,12 @@ function App() {
         }}
       >
         <Typography 
-          variant="h2" 
+          variant="h5" 
           color="black" 
           sx={{
             fontFamily: 'Roboto, sans-serif', 
             fontWeight: 'bold',
-            textIndent: '20px'
+            textIndent: '10px'
           }}
         >
           Main
@@ -64,21 +64,21 @@ function App() {
       <Box 
         position="static" 
         sx={{
-          height: '200px',
+          height: '40px',
           backgroundColor: '#ffffff', // White background
-          borderTop: '4px solid #000000', // Black border
+          borderTop: '2px solid #000000', // Black border
           display: 'flex',
           justifyContent: 'left',
           alignItems: 'center',
         }}
       >
         <Typography 
-          variant="h2" 
+          variant="h5" 
           color="black" 
           sx={{
             fontFamily: 'Roboto, sans-serif', 
             fontWeight: 'bold',
-            textIndent: '20px'
+            textIndent: '10px'
           }}
         >
           Nav
